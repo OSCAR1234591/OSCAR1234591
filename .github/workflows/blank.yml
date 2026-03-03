@@ -2,7 +2,7 @@ name: Update README2
 
 on:
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "*/30 * * * *"  # Cada 30 min
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,16 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4.2.2
-      
-      - uses: Readme-Workflows/recent-activity@v2.4.1
+
+      - name: Generate Recent Activity
+        uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Updated activity" || echo "No changes to commit"
+          git push
