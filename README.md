@@ -12,5 +12,5 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/OSCAR1234591%2FapiRest-books/OSCAR1234591%2FapiRest-books)
 
 ### :zap: Actividad reciente
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
