@@ -13,9 +13,9 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [OSCAR1234591/OSCAR1234591](https://github.com/OSCAR1234591/OSCAR1234591)<br>
-2. ⬆️ Pushed undefined commit(s) to [OSCAR1234591/OSCAR1234591](https://github.com/OSCAR1234591/OSCAR1234591)<br>
-3. ⬆️ Pushed undefined commit(s) to [OSCAR1234591/OSCAR1234591](https://github.com/OSCAR1234591/OSCAR1234591)<br>
-4. ⬆️ Pushed undefined commit(s) to [OSCAR1234591/OSCAR1234591](https://github.com/OSCAR1234591/OSCAR1234591)<br>
-5. ⬆️ Pushed undefined commit(s) to [OSCAR1234591/OSCAR1234591](https://github.com/OSCAR1234591/OSCAR1234591)<br>
+1. ✔️ Closed issue [#4](https://github.com/OSCAR1234591/miPrimerRepo/issues/4) in [OSCAR1234591/miPrimerRepo](https://github.com/OSCAR1234591/miPrimerRepo)<br>
+2. ✔️ Closed issue [#1](https://github.com/OSCAR1234591/miPrimerRepo/issues/1) in [OSCAR1234591/miPrimerRepo](https://github.com/OSCAR1234591/miPrimerRepo)<br>
+3. ⬆️ Pushed undefined commit(s) to [OSCAR1234591/miPrimerRepo](https://github.com/OSCAR1234591/miPrimerRepo)<br>
+4. ✌️ Released [v0.1.0](https://github.com/OSCAR1234591/tercerRepo/releases/tag/v0.1.0) in [OSCAR1234591/tercerRepo](https://github.com/OSCAR1234591/tercerRepo)<br>
+5. ⬆️ Pushed undefined commit(s) to [OSCAR1234591/tercerRepo](https://github.com/OSCAR1234591/tercerRepo)<br>
 <!--RECENT_ACTIVITY:end-->
