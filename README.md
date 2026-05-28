@@ -13,4 +13,9 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed undefined commit(s) to [OscarSabino/Smart-Controler](https://github.com/OscarSabino/Smart-Controler)<br>
+2. ⬆️ Pushed undefined commit(s) to [OscarSabino/Smart-Controler](https://github.com/OscarSabino/Smart-Controler)<br>
+3. ⬆️ Pushed undefined commit(s) to [OscarSabino/Smart-Controler](https://github.com/OscarSabino/Smart-Controler)<br>
+4. ⬆️ Pushed undefined commit(s) to [OscarSabino/Smart-Controler](https://github.com/OscarSabino/Smart-Controler)<br>
+5. ⬆️ Pushed undefined commit(s) to [OscarSabino/Smart-Controler](https://github.com/OscarSabino/Smart-Controler)<br>
 <!--RECENT_ACTIVITY:end-->
